@@ -107,6 +107,6 @@ The Excel dashboard includes:
 *Dauda Abdullahi*  
 📧 dauda6326@gmail.com  
 📍 Abuja, Nigeria  
-GitHub: Replace with your GitHub profile link
+GitHub: https://github.com/DaudaRex
 
 ---
