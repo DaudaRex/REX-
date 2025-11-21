@@ -74,8 +74,6 @@ The Excel dashboard includes:
 
 ## 🔍 Business Insights (Sample)
 
-(You may update these after reviewing the dashboard visuals.)
-
 - The *North region* shows strong sales driven by branches like Abuja and Jos.  
 - *Women Dress* and *Men T-Shirt* are top-performing product lines.  
 - Discounts significantly impact total sales in West region branches.  
